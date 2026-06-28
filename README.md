@@ -1,5 +1,16 @@
 # 💫 About Me:
-नमस्ते (Namaste)🙏🏻, I'm Adityam Kumar!<br><br>**A passionate Generative AI || Data Analytics || **<br><br>Email Me 👉 ✉️ ** adityamsingh65@gmail.com **<br><br>🔭 I’m currently working on: -<br>🌱 I’m currently learning: Python • Machine Learning • LLMs • RAG • LangChain • SQL<br>👯 I’m looking to collaborate on:<br>🤔<br>⚡ Fun fact: Shadow Clone Jutsu Naruto ki signature technique hai.
+नमस्ते (Namaste)🙏🏻, I'm **Adityam Kumar**!
+
+**A passionate Generative AI || Data Analytics || **
+
+Email Me 👉 ✉️ ** adityamsingh65@gmail.com **
+
+🔭 I’m currently working on: -
+🌱 I’m currently learning: Python • Machine Learning • LLMs • RAG • LangChain • SQL
+👯 I’m looking to collaborate on:
+🤔
+⚡ Fun fact: Shadow Clone Jutsu Naruto ki signature technique hai.
+
 
 
 ## 🌐 Socials:
